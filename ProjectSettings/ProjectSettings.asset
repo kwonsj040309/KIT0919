@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: dcdf58308308e1441994eeea54932bbf
+  productGUID: 5e11b28541e29594dbbb75a02a8dd76f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: KIT918
+  productName: KIT919
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -833,14 +833,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: KIT918
+  metroPackageName: KIT919
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: KIT918
+  metroApplicationDescription: KIT919
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -909,10 +909,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b1bc0e43-ddfe-48e1-9a8a-8d5e507f65bd
+  cloudProjectId: 55fb94d8-dcca-4c48-9d68-457c7301a8e8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: KIT918
+  projectName: KIT919
   organizationId: kzuni
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
